@@ -1,6 +1,7 @@
 #include "pch.h"
 #include <iostream>
  
+// open this as a console project in vs 
 
 using namespace std;
 int inf = 100000;
